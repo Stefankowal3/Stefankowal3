@@ -1,5 +1,5 @@
-##Yo! I'm Stefankowal3
-##💻 About Me
+## Yo! I'm Stefankowal3
+## 💻 About Me
 🎓 I'm a computer science student (4th semester) living in Poland, currently working full-time at a private company.
 
 🔧 I work as a stage lighting service technician – specializing in the maintenance, repair, and configuration of professional stage equipment.
