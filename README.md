@@ -9,6 +9,7 @@ Yo! I'm Stefankowal3
 ⚡ Outside of work and studies, I’m passionate about blockchain tech and love experimenting with hardware (Arduino, Raspberry Pi).
 
 🌍 Connect With Me
-🐦 @Stefankowal3
 
-💬 Telegram – @Stefankowal3
+🐦 [X - @Stefankowal3](https://twitter.com/Stefankowal3) 
+
+💬 [Telegram – @Stefankowal3](https://t.me/Stefankowal3)  
